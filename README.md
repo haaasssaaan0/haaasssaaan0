@@ -1,5 +1,5 @@
 #About Me:
-Fintech sophomore at FAST-NUCES Islamabad with hands-on experience across both tech and business — I've built a blockchain transaction simulator in C++ using Merkle trees and hash tables, interned at an AI startup doing business development and market research, and founded my own media company, Hassanpixels, all while studying Data Structures, Financial Modeling, and Cybersecurity. I code in C++, Python, and SQL, and work with tools like Tableau, MySQL, and Excel to turn data into decisions. I'm driven by the intersection of finance and technology, and I bring both the technical foundation and the entrepreneurial mindset to back it up.
+Fintech sophomore at FAST-NUCES Islamabad with hands-on experience across both tech and business. I've built a blockchain transaction simulator in C++ using Merkle trees and hash tables, interned at an AI startup doing business development and market research, and founded my own media company, Hassanpixels, all while studying Data Structures, Financial Modeling, and Cybersecurity. I code in C++, Python, and SQL, and work with tools like Tableau, MySQL, Spss, Quickbooks, Visual Studio Code and Excel to turn data into decisions. I'm driven by the intersection of finance and technology, and I bring both the technical foundation and the entrepreneurial mindset to back it up.
 
 
 ## 🌐 Socials:
